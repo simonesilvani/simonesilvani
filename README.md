@@ -3,7 +3,7 @@
 <table align="center">
     <tr>
         <td>
-            <img src="assets/image.png" width="300">
+            <img src="assets/image2.png" width="300">
         </td>
         <td align="center" valign="middle">
             <h1>👋 Hi, I'm Simone Silvani</h1>
